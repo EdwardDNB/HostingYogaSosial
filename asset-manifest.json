@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Kabzda/static/css/main.415702e8.css",
+    "main.js": "/Kabzda/static/js/main.518be220.js",
+    "static/css/250.ba590649.chunk.css": "/Kabzda/static/css/250.ba590649.chunk.css",
+    "static/js/250.929689bb.chunk.js": "/Kabzda/static/js/250.929689bb.chunk.js",
+    "static/css/796.699ea290.chunk.css": "/Kabzda/static/css/796.699ea290.chunk.css",
+    "static/js/796.32b31f5c.chunk.js": "/Kabzda/static/js/796.32b31f5c.chunk.js",
+    "static/media/userFoto.webp": "/Kabzda/static/media/userFoto.22c284b1bfc02acd8ad3.webp",
+    "static/media/Spinner-1s-200px.svg": "/Kabzda/static/media/Spinner-1s-200px.30948b56c2521bff26ac68a9a01a4bb3.svg",
+    "index.html": "/Kabzda/index.html",
+    "main.415702e8.css.map": "/Kabzda/static/css/main.415702e8.css.map",
+    "main.518be220.js.map": "/Kabzda/static/js/main.518be220.js.map",
+    "250.ba590649.chunk.css.map": "/Kabzda/static/css/250.ba590649.chunk.css.map",
+    "250.929689bb.chunk.js.map": "/Kabzda/static/js/250.929689bb.chunk.js.map",
+    "796.699ea290.chunk.css.map": "/Kabzda/static/css/796.699ea290.chunk.css.map",
+    "796.32b31f5c.chunk.js.map": "/Kabzda/static/js/796.32b31f5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.415702e8.css",
+    "static/js/main.518be220.js"
+  ]
+}
